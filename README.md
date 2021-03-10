@@ -1,5 +1,5 @@
 # EasyMarkerTeleporter
-Simple script to teleport players in Markers. You can config if you want, that the vehicle teleports with the player or just the player, and that only a specific Job can use the Markers.
+Simple script to teleport players in Markers. You can config, that the vehicle teleports with the player or just the player, and that only a specific Job can use the Markers.
 
 **Installation**
     
