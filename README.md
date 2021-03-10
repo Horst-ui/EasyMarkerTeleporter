@@ -12,6 +12,5 @@ Simple script to teleport players in Markers. You can config, that the vehicle t
   
 
 -------------------------
-**Questions**
 Discord: Horst#6525
     
