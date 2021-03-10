@@ -1,10 +1,10 @@
 # EasyMarkerTeleporter
-Teleports a Player if entered the Marker or if enabled he has the right Job
+Simple script to teleport players in Markers. You can config if you want, that the vehicle teleports with the player or just the player, and that only a specific Job can use the Markers.
 
 **Installation**
     
-    Put it in your Resource folder and add this to your server.cfg:
-    - start EasyMarkerTeleporter
+    Put it in your resource folder and add this to your server.cfg:
+      "start EasyMarkerTeleporter"
 
 **Configuration**
     
