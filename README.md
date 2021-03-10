@@ -1,4 +1,4 @@
-# Easy-Marker-Teleporter
+# EasyMarkerTeleporter
 Teleports a Player if entered the Marker or if enabled he has the right Job
 
 **Installation**
